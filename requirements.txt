@@ -1,0 +1,1 @@
+tercerRepo @ https://github.com/la-yun/tercerRepo/releases/download/v0.1.0/tercerRepo-0.1.0-py3-none-any.whl#sha256=fee8bea35051b30e2dc9e958c5f212783a670186454c5ec59eca9fb282fa6f66
